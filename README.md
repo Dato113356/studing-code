@@ -29,7 +29,7 @@
 - **專案 1：紅酒品質分析**
   - 描述：分析紅酒的各項指標和品質的關聯。
   - 使用的套件：Python, Pandas, Seaborn, scikit-learn
-  - [查看專案](link_to_project_1)
+  - [查看專案](wine-quality/wine_quality.ipynb)
 
 - **專案 2：集群分類**
   - 描述：將數據集中的樣本分組，使用到的方法有K-means、Hierarchical Clustering、DBSCAN、GMM、Silhouette scores、Elbow Method。
