@@ -34,7 +34,7 @@
 - **專案 2：集群分類**
   - 描述：將數據集中的樣本分組，使用到的方法有K-means、Hierarchical Clustering、DBSCAN、GMM、Silhouette scores、Elbow Method。
   - 使用的套件：Python, Pandas, Seaborn, scikit-learn, spicy
-  - [查看專案](link_to_project_2)
+  - [查看專案](Clustering/Clustering.ipynb)
 
 - **專案 3：迴歸分析**
   - 描述：練習Multivariate Regression、Polynomial Regression、learning curves、Regularized Models。
