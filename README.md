@@ -69,6 +69,6 @@
 如果你有任何問題或想要交流，請隨時聯絡我：
 
 - 電子郵件：aa0917007961@gmail.com
-- LinkedIn：[你的LinkedIn個人檔案](link_to_your_linkedin)
+- LinkedIn：www.linkedin.com/in/datoww
 
 謝謝你的閱讀！希望我的學習過程能對你有所幫助。
