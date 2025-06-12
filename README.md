@@ -21,7 +21,7 @@
 - **部落格與網站**：
   - Towards Data Science
   - Kaggle
-  - uci
+    
 ## 專案列表
 
 以下是我完成的一些數據分析專案：
