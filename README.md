@@ -39,7 +39,7 @@
 - **專案 3：迴歸分析**
   - 描述：練習Multivariate Regression、Polynomial Regression、learning curves、Regularized Models。
   - 使用的套件：Python, Pandas, Seaborn, scikit-learn, statsmodels
-  - [查看專案](link_to_project_2)
+  - [查看專案](Regression/regression.ipynb)
 
 - **專案 3：樹狀演算法**
   - 描述：練習tree structre、比較classification和regression、Cart和C4.5、regression tree、recap:Ensemble、bagging和random forest。
