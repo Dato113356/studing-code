@@ -74,4 +74,76 @@
 謝謝你的閱讀！希望我的學習過程能對你有所幫助。
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Data Analysis Learning Journey
+
+Welcome to my data analysis learning project! Here, I will share my learning journey in the field of data analysis, the tools I used, and the projects I have completed.
+
+## Table of Contents
+
+1. [Learning Resources](#learning-resources)
+2. [Project List](#project-list)
+3. [Tools Used](#tools-used)
+4. [Future Plans](#future-plans)
+5. [Contact Me](#contact-me)
+
+## Learning Resources
+
+I used the following resources to learn data analysis:
+
+- **Online Courses**:
+  - Xuemi - Machine Learning Online Course
+  
+- **Blogs and Websites**:
+  - Towards Data Science
+  - Kaggle
+    
+## Project List
+
+Here are some of the data analysis projects I have completed:
+
+- **Project 1: Red Wine Quality Analysis**
+  - Description: Analyzing the relationship between various indicators and the quality of red wine.
+  - Libraries Used: Python, Pandas, Seaborn, scikit-learn
+  - [View Project](wine-quality/wine_quality.ipynb)
+
+- **Project 2: Clustering Classification**
+  - Description: Grouping samples in the dataset using methods such as K-means, Hierarchical Clustering, DBSCAN, GMM, Silhouette scores, and Elbow Method.
+  - Libraries Used: Python, Pandas, Seaborn, scikit-learn, spicy
+  - [View Project](Clustering/Clustering.ipynb)
+
+- **Project 3: Regression Analysis**
+  - Description: Practicing Multivariate Regression, Polynomial Regression, learning curves, and Regularized Models.
+  - Libraries Used: Python, Pandas, Seaborn, scikit-learn, statsmodels
+  - [View Project](Regression/regression.ipynb)
+
+- **Project 4: Tree Algorithms**
+  - Description: Practicing tree structure, comparing classification and regression, CART and C4.5, regression trees, and recap: Ensemble, bagging, and random forest.
+  - Libraries Used: Python, Pandas, Seaborn, scikit-learn, statsmodels
+  - [View Project](Tree/Tree.ipynb)
+
+## Tools Used
+
+Throughout my learning journey, I utilized the following tools:
+
+- **Programming Language**: Python
+- **Data Processing**: Pandas, NumPy, statsmodels, spicy
+- **Data Visualization**: Matplotlib, Seaborn
+- **Machine Learning**: scikit-learn, TensorFlow
+
+## Future Plans
+
+In the future, I plan to learn more about the following topics:
+
+- Deep Learning
+- Big Data Processing
+- Artificial Intelligence
+
+## Contact Me
+
+If you have any questions or would like to connect, feel free to reach out to me:
+
+- Email: aa0917007961@gmail.com
+- LinkedIn: www.linkedin.com/in/datoww
+
+Thank you for reading! I hope my learning journey can be helpful to you.
 
