@@ -36,17 +36,17 @@
   - 使用的套件：Python, Pandas, Seaborn, scikit-learn, xgboost, lightgbm
   - 機器學習[查看專案](信用卡異常活動分析/Credit_Card_Fraud_Detection.ipynb)
   - 數據分析[查看專案](信用卡異常活動分析/Credit_Card_Fraud_Analysis.ipynb)
-
-- **專案 3：集群分類**
-  - 描述：將數據集中的樣本分組，使用到的方法有K-means、Hierarchical Clustering、DBSCAN、GMM、Silhouette scores、Elbow Method。
-  - 使用的套件：Python, Pandas, Seaborn, scikit-learn, spicy
-  - [查看專案](Clustering/Clustering.ipynb)
-    
-- **專案 4：selenium爬蟲**
+ 
+- **專案 3：selenium爬蟲**
   - 描述：將購物網站的商品及價格抓取下來，利用自製的翻譯器將抓取到的資訊從簡體轉換到繁體中文。
   - 使用的套件：selenium, time, requests
   - [查看專案](converter_crawler)
 
+- **專案 4：集群分類**
+  - 描述：將數據集中的樣本分組，使用到的方法有K-means、Hierarchical Clustering、DBSCAN、GMM、Silhouette scores、Elbow Method。
+  - 使用的套件：Python, Pandas, Seaborn, scikit-learn, spicy
+  - [查看專案](Clustering/Clustering.ipynb)
+    
 - **專案 5：迴歸分析**
   - 描述：練習Multivariate Regression、Polynomial Regression、learning curves、Regularized Models。
   - 使用的套件：Python, Pandas, Seaborn, scikit-learn, statsmodels
