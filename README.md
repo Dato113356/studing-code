@@ -19,7 +19,7 @@
   - 學米-機器學習線上課程
   
 - **部落格與網站**：
-  - Towards Data Science
+  - [李宏毅老師的課程](https://www.youtube.com/watch?v=QLiKmca4kzI&list=PLJV_el3uVTsNZEFAdQsDeOdzAaHTca2Gi)
   - Kaggle
     
 ## 專案列表
@@ -41,13 +41,18 @@
   - 描述：將數據集中的樣本分組，使用到的方法有K-means、Hierarchical Clustering、DBSCAN、GMM、Silhouette scores、Elbow Method。
   - 使用的套件：Python, Pandas, Seaborn, scikit-learn, spicy
   - [查看專案](Clustering/Clustering.ipynb)
+    
+- **專案 4：selenium爬蟲**
+  - 描述：將購物網站的商品及價格抓取下來，利用自製的翻譯器將抓取到的資訊從簡體轉換到繁體中文。
+  - 使用的套件：selenium, time, requests
+  - [查看專案](converter_crawler)
 
-- **專案 4：迴歸分析**
+- **專案 5：迴歸分析**
   - 描述：練習Multivariate Regression、Polynomial Regression、learning curves、Regularized Models。
   - 使用的套件：Python, Pandas, Seaborn, scikit-learn, statsmodels
   - [查看專案](Regression/regression.ipynb)
 
-- **專案 5：樹狀演算法**
+- **專案 6：樹狀演算法**
   - 描述：練習tree structre、比較classification和regression、Cart和C4.5、regression tree、recap:Ensemble、bagging和random forest。
   - 使用的套件：Python, Pandas, Seaborn, scikit-learn, statsmodels
   - [查看專案](Tree/Tree.ipynb)
